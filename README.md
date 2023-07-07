@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ming Zhou
-- 👀 I’m interested in data analysis, web application development, database
+- 👀 I’m interested in data analysis, web application development and database management
 - 🌱 I’m currently learning data science in UWA
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me email: 23745017@student.uwa.edu.au
